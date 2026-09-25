@@ -8,6 +8,7 @@ This repository contains utility scripts for basic computational genomics tasks.
 ## Prerequisites
 To run these scripts, you will need:
 * Python 3.8+
+* R (with the `ggplot2` package installed)
 
 ## Usage
 Example command to run the GC content calculator:
